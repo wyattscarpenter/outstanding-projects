@@ -9,6 +9,7 @@ If it's unclear what I'm talking about, it's probably one of my GitHub projects,
 - finish austrian-nobleman (the c-as-lisp)
 - finish conlang
 - possibly, after the conlang is finished, create a language version after that which is radically simpler, as well
+- possibly make true ttf (otf? woff?) font for conlang
 - figure out if i should make a company or nonprofit or what (tax implications)
 - submit question dog to unicode
 - finish unsong-book-fetcher 2024 edition
