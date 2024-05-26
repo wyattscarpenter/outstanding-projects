@@ -14,6 +14,7 @@ If it's unclear what I'm talking about, it's probably one of my GitHub projects,
 - submit question dog to unicode
 - finish unsong-book-fetcher 2024 edition
 - finish terror-island 2024 edition (also todo: add author names bigger than my own...)
+- build or find an appropriate generic framework for building a video game, such that if I make a video game I don't have to spend ages making the menu and settings correct and nice in addition to making the game.
 - better note-taming app/system
 - misc
 - 
