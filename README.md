@@ -6,6 +6,7 @@ If it's unclear what I'm talking about, it's probably one of my GitHub projects,
 ## maybe you can do these, or at least some of these
 - can discord-kill-time be changed to use the CSS route of the similar script somehow, or at least stop crashing discord?
 - write rule 124 implementation for FLOWN
+- "the canon" (generalization of the biblical Canon, the literary canon, the Western Canon, etc), a dataset and visualization (timeline (going vertically down a web page)) of every important book.
 - finish austrian-nobleman (the c-as-lisp)
 - finish conlang
 - possibly, after the conlang is finished, create a language version after that which is radically simpler, as well
