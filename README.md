@@ -5,6 +5,7 @@ If it's unclear what I'm talking about, it's probably one of my GitHub projects,
 
 ## maybe you can do these, or at least some of these
 - there are a number of small video games I would like to make which I have the programming skill to make, but not the graphical and audio skills. many of them only require pixel art. But probably a large volume of pixel art in a consistent style or at least semicosistent.
+- a converter for certain types of markdown documents to a certain type of json, for a friend 
 - can discord-kill-time be changed to use the CSS route of the similar script somehow, or at least stop crashing discord?
 - write rule 124 implementation for FLOWN
 - "the canon" (generalization of the biblical Canon, the literary canon, the Western Canon, etc), a dataset and visualization (timeline (going vertically down a web page)) of every important book.
