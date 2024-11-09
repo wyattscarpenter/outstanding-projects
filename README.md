@@ -5,7 +5,7 @@ If it's unclear what I'm talking about, it's probably one of my GitHub projects,
 
 ## cool stack
 - write rule 124 implementation for FLOWN
-- upgrade https://github.com/wyattscarpenter/streamlit-profiler to use the lastest version of the profiler library, so that weird errors I get there don't keep showing up (I might get to this soon).
+- upgrade https://github.com/wyattscarpenter/streamlit-profiler to use the lastest version of the profiler library, so that weird errors I get there don't keep showing up.
 - I would like the 404 page on my GitHub hosted blog to list out valid similar to the URL you tried to visit, possibly doing a complete search of complete text. some ways of doing this could be populating the search function at the same time we populate the RSS, or using an iframe to point to GitHub search maybe? although I think that latter way would just take you to the source file which isn't what I want.
 - add COMMENT tokens to python's compile
 - can discord-kill-time be changed to use the CSS route of the similar script somehow, or at least stop crashing discord? (update: now it crashes all the time)
