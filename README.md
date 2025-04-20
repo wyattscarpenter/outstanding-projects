@@ -4,10 +4,10 @@ Projects that I'm meaning to get to that maybe someone else could get to?
 If it's unclear what I'm talking about, it's probably one of my GitHub projects, and you can probably search there for additional context. This is all part of the fun.
 
 ## cool stack
-- write rule 124 implementation for FLOWN
+- write rule 124 implementation for FLOWN (this one is difficult in terms of programming, but in a weird way)
 - upgrade https://github.com/wyattscarpenter/streamlit-profiler to use the lastest version of the profiler library, so that weird errors I get there don't keep showing up.
 - I would like the 404 page on my GitHub hosted blog to list out valid similar to the URL you tried to visit, possibly doing a complete search of complete text. some ways of doing this could be populating the search function at the same time we populate the RSS, or using an iframe to point to GitHub search maybe? although I think that latter way would just take you to the source file which isn't what I want.
-- add COMMENT tokens to python's compile
+- add COMMENT tokens to python's compile https://github.com/python/cpython/issues/101494#issuecomment-2395119743 (ie: ast.parse exposed all comments in its results.)
 - can discord-kill-time be changed to use the CSS route of the similar script somehow, or at least stop crashing discord? (update: now it crashes all the time)
 - https://github.com/fiaas/publish/pull/24 IIRC you just have to accept his suggestions and run an autoformatter probably. Probably best for me to take care of this since I have context.
 
@@ -18,13 +18,13 @@ If it's unclear what I'm talking about, it's probably one of my GitHub projects,
 - pipy?
 - "the canon" (generalization of the biblical Canon, the literary canon, the Western Canon, etc), a dataset and visualization (timeline (going vertically down a web page)) of every important book.
 - finish austrian-nobleman (the c-as-lisp)
-- finish conlang
-- possibly, after the conlang is finished, create a language version after that which is radically simpler, as well
-- possibly make true ttf (otf? woff?) font for conlang
+- finish conlang for TTRPG
+  - possibly, after the conlang is finished, create a language version after that which is radically simpler, as well
+  - possibly make true ttf (otf? woff?) font for conlang
 - figure out if i should make a company or nonprofit or what (tax implications)
 - submit question dog to unicode
-- finish unsong-book-fetcher 2024 edition
-- finish terror-island 2024 edition (also todo: add author names bigger than my own...)
+- finish unsong-book-fetcher 2025 edition
+- finish terror-island 2025 edition
 - build or find an appropriate generic framework for building a video game, such that if I make a video game I don't have to spend ages making the menu and settings correct and nice in addition to making the game.
 - better note-taking app/system
 - misc
